@@ -2,7 +2,6 @@
 CONFIG += c++11
 TARGET = cutegram
 QT += qml quick gui widgets core asemancore asemangui asemanqml sql
-
 LIBS += -lqt5keychain
 TEMPLATE = app
 SOURCES += main.cpp
